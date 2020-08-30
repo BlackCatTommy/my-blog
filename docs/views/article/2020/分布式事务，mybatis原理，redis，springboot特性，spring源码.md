@@ -1,11 +1,4 @@
----
-title: 分布式事务，mybatis原理，redis，springboot特性，spring源码
-date: 2020-07-09
-categories:
- - article
-author:
----
-
+分布式事务，mybatis原理，redis，springboot特性，spring源码
 
 ![image-20200709093958806](../../images/image-20200709093958806.png)
 
